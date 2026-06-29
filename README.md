@@ -244,5 +244,5 @@ This project is intended for educational and research purposes.
 
 ## 👨‍💻 Author
 
-**You Name**  
+**vinayak naik**  
 Data Science Enthusiast
